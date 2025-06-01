@@ -198,3 +198,4 @@ from factor_synthesis import index_enhance_model
 
 index_enhance_model('000300.SH', ['ROE_ttm', 'PE_ttm', 'MOM_1M'])
 ```
+#### 参考自https://github.com/phonegapX/alphasickle
